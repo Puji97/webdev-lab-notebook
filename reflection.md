@@ -1,6 +1,6 @@
-## Reflection Document
+# Reflection Document
 
-### HTML
+## HTML
 
 ### 1. Were you able to complete the exercises on your own or did you use the videos or the solutions for help?
 
@@ -18,6 +18,6 @@ I felt everything was explained really well.
 
 Not really, I think there was a good coverage of the topics.
 
-### Accessibility
+## Accessibility
 
 Enter your reflections on this section here.
