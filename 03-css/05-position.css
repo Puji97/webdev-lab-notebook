@@ -8,9 +8,11 @@
   padding: 10px;
   color: var(--white);
 }
+
 .main {
   margin-top: 80px;
 }
+
 .static {
   position: static;
   width: 300px;
@@ -38,9 +40,20 @@
 
 .fixed {
   position: fixed;
-  left: 0;
   bottom: 0;
+  left: 0;
   width: 100%;
   height: 70px;
   background-color: var(--darkgolden);
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
 }
