@@ -12,3 +12,4 @@ Create the following layouts using Flexbox.
 <img src="../_assets/css-exercises/css-ex07-flexbox-04.png" height=200 alt="screenshot of a layout">
 <img src="../_assets/css-exercises/css-ex07-flexbox-05.png" height=200 alt="screenshot of a layout">
 <img src="../_assets/css-exercises/css-ex07-flexbox-06.png" height=200 alt="screenshot of a layout">
+ 
