@@ -63,10 +63,9 @@
 
 .flex-container-6 {
   height: 300px;
+  /* use height: 300px; on the container */
   flex-flow: column wrap;
 }
 .flex-container-6 .flex-item {
   width: 400px;
 }
-
-/* use height: 300px; on the container */
