@@ -86,10 +86,6 @@
 
 ### 07-JavaScript
 
-Enter your reflections on this section here.
-
-07-javascript
-
 1. Were you able to complete the exercises on your own, or did you use the videos or the solutions for help?
    A. Javascript was the most challening one. I used the videos as well as the solutions and had to study a lot into it to complete the exercises.
 
